@@ -24,6 +24,15 @@
 
 ---
 
+## 🤝 Team Projects & Collaborations
+
+| Project Name                                     | Description                                                                              | Tech Stack                  | Role                               | Links                                                                                           |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 🏥 **IIITDMJ ERP Portal - Health Center Domain** | Part of the institute ERP portal for managing student and faculty health services.       | React.js, Django            | Fullstack Dev (Frontend + Backend) | [Frontend](https://github.com/SRV30/Fusion-client) / [Backend](https://github.com/SRV30/Fusion) |
+| 💡 **SmartCare Health App** *(Demo)*             | 1-year interdisciplinary project (CSE, ECE, ME) for smart health tracking & diagnostics. | React.js, Node.js, Firebase | Team Lead + Fullstack Development  | [GitHub](https://github.com/SRV30/Smartcare-EDP-Project)                                        |
+
+---
+
 ## 🤝 Open Source Contributions
 Contributed to open-source programs like **GSSoC** and **Hacktoberfest**  
 🧠 Key contributions:
@@ -37,7 +46,6 @@ Some notable repos:
 - 🍦 [Ice Cream Parlour](https://github.com/SRV30/ice-cream-parlour-website)
 - 🏋️ [FitFlex](https://github.com/SRV30/FitFlex)
 - ✍️ [WordWeaver](https://github.com/SRV30/WordWeaver)
-- 🔍 [GitFinder](https://github.com/SRV30/GitFinder)
 - ...and [many more →](https://github.com/SRV30?tab=repositories)
 
 ---
@@ -49,7 +57,7 @@ Some notable repos:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRV30&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRV30&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRV30&layout=compact&theme=radical)
 
 ---
