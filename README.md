@@ -29,7 +29,7 @@
 | Project Name                                     | Description                                                                              | Tech Stack                  | Role                               | Links                                                                                           |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 🏥 **IIITDMJ ERP Portal - Health Center Domain** | Part of the institute ERP portal for managing student and faculty health services.       | React.js, Django            | Fullstack Dev (Frontend + Backend) | [Frontend](https://github.com/SRV30/Fusion-client) / [Backend](https://github.com/SRV30/Fusion) |
-| 💡 **SmartCare Health App** *(Demo)*             | 1-year interdisciplinary project (CSE, ECE, ME) for smart health tracking & diagnostics. | React.js, Node.js, Firebase | Team Lead + Fullstack Development  | [GitHub](https://github.com/SRV30/Smartcare-EDP-Project)                                        |
+| 💡 **SmartCare Health App**             | 1-year interdisciplinary project (CSE, ECE, ME) for smart health tracking & diagnostics. | React.js, Node.js, Firebase | Team Lead + Fullstack Development  | [Link](https://drive.google.com/drive/u/0/folders/12DegYEyioMaslIgDk9zQMkI42pwe1fSx)                                        |
 
 ---
 
