@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sahil (SRV)
+# 👋 Hey there, I'm Sahil Raj Verma(SRV)
 
 🚀 Final Year CSE | Aspiring Full-Stack Developer  
 💻 Passionate about MERN stack, DSA, and building real-world products  
