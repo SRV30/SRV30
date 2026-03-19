@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sahil+Raj+Verma+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+DSA+%7C+Problem+Solver;Building+Real-World+Products+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sahil+Raj+Verma+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+%7C+DSA+%7C+Problem+Solver;Building+Real-World+Products+%F0%9F%92%BB" alt="Typing SVG" />
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SRV%20–%20Sahil%20Raj%20Verma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Final%20Year%20CSE%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=18&descAlignY=60" />
