@@ -16,15 +16,15 @@
 
 </div>
 
-```ts
+```javascript
 const SRV = {
-  name       : "Sahil Raj Verma",
-  alias      : "SRV",
-  degree     : "B.Tech CSE – Final Year",
-  passion    : ["MERN Stack", "DSA", "Real-World Products", "Open Source"],
-  leetcode   : "srv_30",
+  name        : "Sahil Raj Verma",
+  alias       : "SRV",
+  degree      : "B.Tech CSE – Final Year",
+  passion     : ["MERN Stack", "DSA", "Real-World Products", "Open Source"],
+  leetcode    : "srv_30",
   currentFocus: ["E-Commerce Platform", "Water Quality Analysis"],
-  funFact    : "I ship code faster than I finish my chai ☕",
+  funFact     : "I ship code faster than I finish my chai ☕",
 };
 ```
 
