@@ -68,7 +68,7 @@ const SRV = {
 | # | Project | Live | Source | Stack |
 |---|---------|------|--------|-------|
 | 🦷 | **City Smile Dental & Implant Center** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://citysmiledentalclinic.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/citysmiledentalclinic) | MERN |
-| 💍 | **Nandani Jewellers** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://www.nandanijewellers.com/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/NJ) | MERN |
+| 💍 | **Nandani Jewellers** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://nandanijewellers.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/NJ) | MERN |
 | 🛍️ | **Faith and Fast** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.com/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF) | MERN |
 | 🧃 | **Samridhi Enterprises** *(In Progress)* | [![Live](https://img.shields.io/badge/Live-FFC107?style=flat-square&logo=vercel&logoColor=black)](https://samridhienterprises.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises) | MERN |
 | 🚗 | **Ayan Tours and Travels** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://ayantourandtravels.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Ayan-Tour-Travels) | MERN |
@@ -142,16 +142,6 @@ const SRV = {
 <br/>
 
 [![SRV's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRV30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SRV30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
