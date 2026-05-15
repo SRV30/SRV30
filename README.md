@@ -72,6 +72,7 @@ const SRV = {
 | 🛍️ | **Faith and Fast** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.com/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF) | MERN |
 | 🧃 | **Samridhi Enterprises** *(In Progress)* | [![Live](https://img.shields.io/badge/Live-FFC107?style=flat-square&logo=vercel&logoColor=black)](https://samridhienterprises.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises) | MERN |
 | 🚗 | **Ayan Tours and Travels** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://ayantourandtravels.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Ayan-Tour-Travels) | MERN |
+| 🤲 | **SAUBHAGYAM Astro** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://saubhagyamastro.in/) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Saubhagyam) | MERN |
 
 </div>
 
