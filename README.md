@@ -122,13 +122,13 @@ const SRV = {
 
 ## ELUSOC 2026 Project Admin
 
-```
+
 ### My ELUSOC 2026 Admin Badges!
 
 <a href="https://edulinkup.dev/elusoc/profile/SRV30">
 
 </a>
-```
+
 
 ---
 
