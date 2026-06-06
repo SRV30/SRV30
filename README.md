@@ -120,11 +120,14 @@ const SRV = {
 
 ---
 
-## 🚧 Currently Working On
+## ELUSOC 2026 Project Admin
 
 ```
-◉  Samridhi Enterprises    — Full E-Commerce freelance platform        [▓▓▓▓▓▓▓░░░] 70%
-◉  Water Quality Analysis  — Data-driven environmental analysis         [▓▓▓▓░░░░░░] 40%
+### My ELUSOC 2026 Admin Badges!
+
+<a href="https://edulinkup.dev/elusoc/profile/SRV30">
+
+</a>
 ```
 
 ---
