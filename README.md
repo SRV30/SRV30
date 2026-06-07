@@ -262,9 +262,24 @@ Independently scoped, designed, built, and shipped 10+ full-stack production app
 ## GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SRV30&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-
+<!-- Trophy Option 1: ryo-ma's own deployment (most stable) -->
+<a href="https://github.com/SRV30">
+<img src="https://github-profile-trophy.vercel.app/?username=SRV30&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+</a>
+<br/>
+<!-- Fallback: individual stat badges that never break -->
+![Followers](https://img.shields.io/github/followers/SRV30?label=Followers&style=flat-square&color=FF3B3B&labelColor=0d1117)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/SRV30?label=Total%20Stars&style=flat-square&color=FF3B3B&labelColor=0d1117)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-35%2B-FF3B3B?style=flat-square&labelColor=0d1117)
+&nbsp;
+![Contributions](https://img.shields.io/badge/Contributions-662%2B-FF3B3B?style=flat-square&labelColor=0d1117)
+&nbsp;
+![GATE](https://img.shields.io/badge/GATE%20CS%202026-Qualified-FF3B3B?style=flat-square&labelColor=0d1117)
+&nbsp;
+![Patent](https://img.shields.io/badge/Patent-Published-FF3B3B?style=flat-square&labelColor=0d1117)
+ 
 </div>
 
 ---
