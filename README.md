@@ -67,23 +67,6 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 
 ---
 
-## Featured Projects
-
-### SMARTCARE — Patent Published
-
-> *Interdisciplinary health monitoring and emergency detection system (CSE × ECE × ME)*
-
-**Problem:** Delayed emergency response due to absence of continuous, real-time health monitoring in resource-constrained environments.
-**Solution:** Built an IoT-integrated platform with continuous vitals tracking, threshold-based anomaly detection, and automated multi-channel emergency alert dispatch.
-**Stack:** React · Node.js · Firebase · IoT Sensors · REST APIs
-**Engineering Challenge:** Designing a low-latency sensor-to-cloud data pipeline with real-time event streaming and predictive risk scoring across heterogeneous hardware.
-**Role:** Team Lead + Full-Stack Developer
-**Impact:** Patent published. Cross-department institutional project. Clinical pilot deployment.
-
-[![Project Drive](https://img.shields.io/badge/Project_Drive-FF3B3B?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/12DegYEyioMaslIgDk9zQMkI42pwe1fSx?usp=sharing)
-
----
-
 ### IIITDM Jabalpur — Health Center ERP
 
 > *Institute-wide ERP module for health services management (Fusion Project)*
@@ -96,20 +79,6 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Fusion-client)
 [![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Fusion)
-
----
-
-### Faith & Fast
-
-> *Production e-commerce platform — full lifecycle delivery*
-
-**Problem:** Client needed a scalable web storefront with catalog management, authentication, and integrated payment processing.
-**Solution:** Delivered complete MERN stack application with JWT auth, RBAC, Razorpay payment gateway, optimized REST API layer, and admin dashboard.
-**Stack:** MongoDB · Express.js · React · Node.js · Razorpay
-**Impact:** Live in production. End-to-end client delivery.
-
-[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF)
 
 ---
 
@@ -144,7 +113,7 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 
 | | |
 |---|---|
-| **Status** | Published |
+| **Status** | Published in Indian Patent Office(IPO)|
 | **Domain** | Healthcare Technology · IoT · Predictive Analytics |
 | **Core Innovation** | Continuous vitals monitoring with rule-based anomaly detection and multi-channel emergency alert dispatch |
 | **Technical Scope** | Sensor data pipeline · Real-time event streaming · Threshold-based alert engine · Predictive risk scoring |
@@ -164,6 +133,12 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 - Mentoring first-time and intermediate contributors through structured pathways
 - Setting contribution guidelines, issue templates, and PR standards
 - Driving community engagement and sustainable open-source governance
+
+**Notable Repositories:**
+
+[![Box_Office_Inc-Movie_Sim](https://img.shields.io/badge/Bitbox-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Box_Office_Inc-Movie_Sim)
+[![Faith-and-Fast](https://img.shields.io/badge/Movie_Ticket_Booking-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Faith-and-Fast)
+[![samridhi-enterprises](https://img.shields.io/badge/FitFlex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises)
 
 ### GSSoC & Hacktoberfest — Contributions
 
@@ -198,6 +173,7 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 | Platform | Handle | Focus |
 |---|---|---|
 | **LeetCode** | [srv_30](https://leetcode.com/srv_30) | Arrays · Trees · DP · Graphs · Sliding Window |
+| **Codeforces** | [srv_30](https://codeforces.com/profile/srv_30)) | Competitive programming (CP) |
 | **GeeksforGeeks** | — | CS Fundamentals · Interview Prep |
 
 **800+ problems** solved. Consistent focus on algorithmic depth — dynamic programming, graph traversal, tree problems, and system-level design questions.
@@ -255,31 +231,6 @@ Independently scoped, designed, built, and shipped 10+ full-stack production app
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/SRV30/SRV30/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-<!-- Trophy Option 1: ryo-ma's own deployment (most stable) -->
-<a href="https://github.com/SRV30">
-<img src="https://github-profile-trophy.vercel.app/?username=SRV30&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub Trophies" onerror="this.style.display='none'"/>
-</a>
-<br/>
-<!-- Fallback: individual stat badges that never break -->
-![Followers](https://img.shields.io/github/followers/SRV30?label=Followers&style=flat-square&color=FF3B3B&labelColor=0d1117)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/SRV30?label=Total%20Stars&style=flat-square&color=FF3B3B&labelColor=0d1117)
-&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-35%2B-FF3B3B?style=flat-square&labelColor=0d1117)
-&nbsp;
-![Contributions](https://img.shields.io/badge/Contributions-662%2B-FF3B3B?style=flat-square&labelColor=0d1117)
-&nbsp;
-![GATE](https://img.shields.io/badge/GATE%20CS%202026-Qualified-FF3B3B?style=flat-square&labelColor=0d1117)
-&nbsp;
-![Patent](https://img.shields.io/badge/Patent-Published-FF3B3B?style=flat-square&labelColor=0d1117)
- 
 </div>
 
 ---
