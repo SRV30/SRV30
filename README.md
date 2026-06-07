@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=4A9EFF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Systems+Builder;M.Tech+CSE+%40+IIT+Roorkee+%E2%80%94+Incoming+2026;GATE+CS+2026+Qualified;ELUSOC+2026+Project+Admin;Patent+Published+%E2%80%94+SMARTCARE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=FF3B3B&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Systems+Builder;M.Tech+CSE+%40+IIT+Roorkee+%E2%80%94+Incoming+2026;GATE+CS+2026+Qualified;ELUSOC+2026+Project+Admin;Patent+Published+%E2%80%94+SMARTCARE" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahilrajverma.vercel.app-4A9EFF?style=flat-square&logo=vercel&logoColor=white)](https://sahilrajverma.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilrajverma.vercel.app-FF3B3B?style=flat-square&logo=vercel&logoColor=white)](https://sahilrajverma.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--raj--verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-raj-verma-b1a13b270)
 &nbsp;
@@ -80,7 +80,7 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 **Role:** Team Lead + Full-Stack Developer
 **Impact:** Patent published. Cross-department institutional project. Clinical pilot deployment.
 
-[![Drive](https://img.shields.io/badge/Project_Drive-4A9EFF?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/folders/12DegYEyioMaslIgDk9zQMkI42pwe1fSx)
+[![Project Drive](https://img.shields.io/badge/Project_Drive-FF3B3B?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/12DegYEyioMaslIgDk9zQMkI42pwe1fSx?usp=sharing)
 
 ---
 
@@ -106,7 +106,7 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 **Problem:** Client needed a scalable web storefront with catalog management, authentication, and integrated payment processing.
 **Solution:** Delivered complete MERN stack application with JWT auth, RBAC, Razorpay payment gateway, optimized REST API layer, and admin dashboard.
 **Stack:** MongoDB · Express.js · React · Node.js · Razorpay
-**Impact:** Live in production at custom domain. End-to-end client delivery.
+**Impact:** Live in production. End-to-end client delivery.
 
 [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF)
@@ -149,6 +149,7 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 | **Core Innovation** | Continuous vitals monitoring with rule-based anomaly detection and multi-channel emergency alert dispatch |
 | **Technical Scope** | Sensor data pipeline · Real-time event streaming · Threshold-based alert engine · Predictive risk scoring |
 | **Team** | Interdisciplinary — CSE × ECE × ME |
+| **Resources** | [![Drive](https://img.shields.io/badge/Project_Drive-FF3B3B?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/12DegYEyioMaslIgDk9zQMkI42pwe1fSx?usp=sharing) |
 
 ---
 
@@ -220,13 +221,15 @@ Independently scoped, designed, built, and shipped 10+ full-stack production app
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SRV30&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF" />
+<!-- Primary stats — uses willoma's reliable self-hosted instance -->
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SRV30&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=ffffff" alt="GitHub Stats"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRV30&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EFF&langs_count=8" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SRV30&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF3B3B&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SRV30&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4A9EFF&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF" alt="GitHub Streak"/>
+<!-- Streak stats — demolab is reliable -->
+<img src="https://streak-stats.demolab.com?user=SRV30&theme=dark&hide_border=true&background=0d1117&stroke=FF3B3B&ring=FF3B3B&fire=FF6B6B&currStreakLabel=FF3B3B&sideLabels=FF3B3B&dates=ffffff" alt="GitHub Streak"/>
 
 </div>
 
@@ -236,7 +239,7 @@ Independently scoped, designed, built, and shipped 10+ full-stack production app
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRV30&theme=github-compact&hide_border=true&bg_color=0d1117&color=4A9EFF&line=4A9EFF&point=ffffff&area=true&area_color=4A9EFF" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRV30&theme=github-compact&hide_border=true&bg_color=0d1117&color=FF3B3B&line=FF3B3B&point=ffffff&area=true&area_color=FF3B3B" alt="Contribution Graph"/>
 
 </div>
 
@@ -260,7 +263,7 @@ Independently scoped, designed, built, and shipped 10+ full-stack production app
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SRV30&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SRV30&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -273,6 +276,6 @@ Independently scoped, designed, built, and shipped 10+ full-stack production app
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SRV30&label=Profile+Views&color=4A9EFF&style=flat-square)](https://github.com/SRV30)
+[![Profile Views](https://komarev.com/ghpvc/?username=SRV30&label=Profile+Views&color=FF3B3B&style=flat-square)](https://github.com/SRV30)
 
 </div>
