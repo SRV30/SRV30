@@ -1,28 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=4&width=100%25"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-  ███████╗ █████╗ ██╗  ██╗██╗██╗      ██████╗  █████╗      ██╗
-  ██╔════╝██╔══██╗██║  ██║██║██║     ██╔══██╗ ██╔══██╗     ██║
-  ███████╗███████║███████║██║██║     ██████╔╝ ███████║     ██║
-  ╚════██║██╔══██║██╔══██║██║██║     ██╔══██╗ ██╔══██║██   ██║
-  ███████║██║  ██║██║  ██║██║███████╗██║  ██║ ██║  ██║╚█████╔╝
-  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚════╝
-                                                     VERMA
-```
+<img src="assets/banner.png" width="100%" alt="Sahil Raj Verma — Software Engineer"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=4A9EFF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Systems+Builder;IIT+Roorkee+M.Tech+CSE+%E2%80%94+2026;GATE+CS+2026+Qualified;ELUSOC+2026+Project+Admin;Patent+Published+%E2%80%94+SMARTCARE;800%2B+DSA+Problems+%7C+10%2B+Production+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=4A9EFF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Systems+Builder;M.Tech+CSE+%40+IIT+Roorkee+%E2%80%94+Incoming+2026;GATE+CS+2026+Qualified;ELUSOC+2026+Project+Admin;Patent+Published+%E2%80%94+SMARTCARE" alt="Typing SVG" />
 
 </div>
 
@@ -32,11 +16,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilrajverma.vercel.app-4A9EFF?style=flat-square&logo=vercel&logoColor=white)](https://sahilrajverma.vercel.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--raj--verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-raj-verma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--raj--verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-raj-verma-b1a13b270)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-srv__30-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/srv_30)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-SRV30-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-sahilrv196@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilrv196@gmail.com)
 
@@ -48,12 +30,11 @@
 
 <div align="center">
 
-| | | | |
-|:---:|:---:|:---:|:---:|
 | **M.Tech CSE** | **GATE CS 2026** | **Patent Published** | **ELUSOC Admin** |
-| IIT Roorkee | Qualified | SMARTCARE | Project Admin 2026 |
-| **10+ Apps** | **800+ Problems** | **35+ Repos** | **Open Source** |
-| Production Shipped | DSA / Algorithms | Public Work | Hacktoberfest · GSSoC |
+|:---:|:---:|:---:|:---:|
+| IIT Roorkee · 2026–2028 | Qualified | SMARTCARE | Project Admin 2026 |
+| **10+ Production Apps** | **800+ DSA Problems** | **35+ Public Repos** | **Open Source** |
+| Freelance · Client Delivery | LeetCode · CF · GFG | Full-Stack · Systems | Hacktoberfest · GSSoC |
 
 </div>
 
@@ -61,34 +42,28 @@
 
 ## Education
 
-**B.Tech — Computer Science & Engineering**
-PDPM IIITDM Jabalpur · 2022 – 2026
-
 **M.Tech — Computer Science & Engineering** *(Incoming)*
 Indian Institute of Technology Roorkee · 2026 – 2028
 → Admitted via GATE CS 2026
+
+**B.Tech — Computer Science & Engineering**
+PDPM IIITDM Jabalpur · 2022 – 2026
 
 ---
 
 ## Technical Expertise
 
-**Languages**
-`C++` · `JavaScript` · `Python` · `Java`
+**Languages** &nbsp; `C++` · `JavaScript` · `Python` · `Java`
 
-**Frontend**
-`React` · `Redux` · `Tailwind CSS` · `Material UI`
+**Frontend** &nbsp; `React` · `Redux` · `Tailwind CSS` · `Material UI` · `Framer Motion`
 
-**Backend**
-`Node.js` · `Express.js` · `REST APIs` · `JWT / RBAC`
+**Backend** &nbsp; `Node.js` · `Express.js` · `REST APIs` · `JWT / RBAC`
 
-**Databases & Storage**
-`MongoDB` · `Firebase` · `Mongoose`
+**Databases & Storage** &nbsp; `MongoDB` · `Firebase` · `PostgreSQL`
 
-**Infrastructure & Tools**
-`Git` · `GitHub Actions` · `Vercel` · `Postman` · `Linux`
+**Infrastructure & Tools** &nbsp; `Git` · `GitHub Actions` · `Vercel` · `Postman` · `Linux`
 
-**CS Fundamentals**
-`Data Structures & Algorithms` · `System Design` · `OOP` · `OS` · `DBMS` · `Computer Networks`
+**CS Fundamentals** &nbsp; `Data Structures & Algorithms` · `System Design` · `OOP` · `OS` · `DBMS` · `Computer Networks`
 
 ---
 
@@ -96,44 +71,70 @@ Indian Institute of Technology Roorkee · 2026 – 2028
 
 ### SMARTCARE — Patent Published
 
-> *Real-time health monitoring and emergency detection platform*
+> *Interdisciplinary health monitoring and emergency detection system (CSE × ECE × ME)*
 
-**Problem:** Delayed emergency response in health-critical situations due to lack of continuous monitoring.
-**Solution:** Built an IoT-integrated system for real-time vitals tracking, anomaly detection, and automated emergency alerts with predictive analytics.
+**Problem:** Delayed emergency response due to absence of continuous, real-time health monitoring in resource-constrained environments.
+**Solution:** Built an IoT-integrated platform with continuous vitals tracking, threshold-based anomaly detection, and automated multi-channel emergency alert dispatch.
 **Stack:** React · Node.js · Firebase · IoT Sensors · REST APIs
-**Impact:** Patent published. Active deployment in clinical pilot environment.
+**Engineering Challenge:** Designing a low-latency sensor-to-cloud data pipeline with real-time event streaming and predictive risk scoring across heterogeneous hardware.
+**Role:** Team Lead + Full-Stack Developer
+**Impact:** Patent published. Cross-department institutional project. Clinical pilot deployment.
+
+[![Drive](https://img.shields.io/badge/Project_Drive-4A9EFF?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/folders/12DegYEyioMaslIgDk9zQMkI42pwe1fSx)
 
 ---
 
-### IIITDM Health Center ERP
+### IIITDM Jabalpur — Health Center ERP
 
-> *Institutional ERP module for health center operations*
+> *Institute-wide ERP module for health services management (Fusion Project)*
 
-**Problem:** Manual, paper-based workflows causing delays in patient management at an engineering institute.
-**Solution:** Designed and deployed a full-stack ERP portal handling appointments, records, and reporting for the health center domain.
-**Stack:** React · Django · PostgreSQL · REST APIs
-**Impact:** Replaced legacy process; serving hundreds of students and staff.
+**Problem:** Paper-based patient workflows causing delays in appointment scheduling, record management, and health reporting across the institute.
+**Solution:** Designed and deployed a full-stack ERP portal (Fusion) managing student and faculty health services — appointments, medical records, and analytics dashboards.
+**Stack:** React.js · Django · REST APIs
+**Role:** Full-Stack (Frontend + Backend)
+**Impact:** Institutional deployment serving hundreds of students and staff.
+
+[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Fusion-client)
+[![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Fusion)
 
 ---
 
 ### Faith & Fast
 
-> *Production client project — end-to-end delivery*
+> *Production e-commerce platform — full lifecycle delivery*
 
-**Problem:** Client required a scalable web platform with authentication, catalog management, and payment processing.
-**Solution:** Delivered complete MERN stack application with JWT auth, RBAC, integrated payment gateway, and optimized API layer.
-**Stack:** MongoDB · Express.js · React · Node.js
-**Impact:** Live in production. Handles real user traffic.
+**Problem:** Client needed a scalable web storefront with catalog management, authentication, and integrated payment processing.
+**Solution:** Delivered complete MERN stack application with JWT auth, RBAC, Razorpay payment gateway, optimized REST API layer, and admin dashboard.
+**Stack:** MongoDB · Express.js · React · Node.js · Razorpay
+**Impact:** Live in production at custom domain. End-to-end client delivery.
+
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF)
 
 ---
 
-### Samridhi Enterprises & City Smile Dental
+## Freelance Work — Shipped & Deployed
 
-> *Dual production deployments — business platforms*
+> 10+ production applications delivered for real clients across healthcare, retail, travel, and services verticals.
 
-Two independent full-stack applications built and delivered for small business clients, with custom CMS, SEO-optimized frontend, and admin dashboards.
-**Stack:** MERN · Vercel · Firebase Auth
-**Impact:** Both live and serving paying clients.
+<div align="center">
+
+| Project | Live | Repo | Stack |
+|---------|------|------|-------|
+| 🦷 **City Smile Dental & Implant Center** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://citysmiledentalclinic.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/citysmiledentalclinic) | MERN |
+| 💍 **Nandani Jewellers** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://nandanijewellers.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/NJ) | MERN |
+| 🛍️ **Faith and Fast** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF) | MERN |
+| 🧃 **Samridhi Enterprises** | [![Live](https://img.shields.io/badge/Live-FFC107?style=flat-square&logo=vercel&logoColor=black)](https://samridhienterprises.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises) | MERN |
+| 🚗 **Ayan Tours and Travels** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://ayantourandtravels.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Ayan-Tour-Travels) | MERN |
+| 🤲 **SAUBHAGYAM Astro** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://saubhagyamastro.in/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Saubhagyam) | MERN |
+
+</div>
+
+**Engineering work across these projects:**
+- JWT authentication + RBAC implemented across 6+ applications
+- Payment gateway integration (Razorpay) with webhook-based order handling
+- 40% average performance improvement via query optimization and lazy loading
+- Full lifecycle delivery: requirements → design → build → deploy → handoff
 
 ---
 
@@ -141,12 +142,13 @@ Two independent full-stack applications built and delivered for small business c
 
 **SMARTCARE — Real-Time Health Monitoring System**
 
-- **Status:** Published
-- **Domain:** Healthcare Technology · IoT · Predictive Analytics
-- **Core Innovation:** Continuous vitals monitoring with rule-based anomaly detection and multi-channel emergency alert dispatch
-- **Technical Scope:** Sensor data pipeline, real-time event streaming, threshold-based alert engine, predictive risk scoring
-
-This is Sahil's most significant research contribution — a complete system from hardware integration to cloud-hosted software layer, recognized through the patent process.
+| | |
+|---|---|
+| **Status** | Published |
+| **Domain** | Healthcare Technology · IoT · Predictive Analytics |
+| **Core Innovation** | Continuous vitals monitoring with rule-based anomaly detection and multi-channel emergency alert dispatch |
+| **Technical Scope** | Sensor data pipeline · Real-time event streaming · Threshold-based alert engine · Predictive risk scoring |
+| **Team** | Interdisciplinary — CSE × ECE × ME |
 
 ---
 
@@ -154,18 +156,31 @@ This is Sahil's most significant research contribution — a complete system fro
 
 ### ELUSOC 2026 — Project Admin
 
-Leading open-source community initiatives under the ELUSOC umbrella:
+Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 
 - Administering project repositories and contributor workflows
 - Reviewing and merging pull requests across multiple codebases
-- Mentoring first-time and intermediate contributors
+- Mentoring first-time and intermediate contributors through structured pathways
 - Setting contribution guidelines, issue templates, and PR standards
 - Driving community engagement and sustainable open-source governance
 
-### Programs
+### GSSoC & Hacktoberfest — Contributions
 
-- **Hacktoberfest** — Contributor (authentication systems, REST APIs, backend architecture)
-- **GSSoC (GirlScript Summer of Code)** — Contributor (frontend improvements, form validation, security enhancements)
+**Key contributions across programs:**
+- Full authentication flow — Login, Register, OTP, Forgot & Reset Password
+- Backend improvements: Node.js modular routing architecture
+- Frontend redesign, form validation, API integration
+- Security enhancements and input sanitization
+
+**Notable Repositories:**
+
+[![Bitbox](https://img.shields.io/badge/Bitbox-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Bitbox)
+[![Movie Booking](https://img.shields.io/badge/Movie_Ticket_Booking-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Movie-Ticket-Booking)
+[![FitFlex](https://img.shields.io/badge/FitFlex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FitFlex)
+[![WordWeaver](https://img.shields.io/badge/WordWeaver-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/WordWeaver)
+[![Ice Cream Parlour](https://img.shields.io/badge/Ice_Cream_Parlour-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/ice-cream-parlour-website)
+
+**[→ View All 35+ Repositories](https://github.com/SRV30?tab=repositories)**
 
 ---
 
@@ -173,19 +188,31 @@ Leading open-source community initiatives under the ELUSOC umbrella:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/srv_30?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/srv_30?theme=dark&ext=heatmap&border=0" alt="LeetCode Stats"/>
 
 </div>
 
 <br/>
 
-| Platform | Focus |
-|---|---|
-| **LeetCode** — [srv_30](https://leetcode.com/srv_30) | Arrays · Trees · DP · Graphs · Sliding Window |
-| **Codeforces** | Competitive Algorithms · Implementation |
-| **GeeksforGeeks** | CS Fundamentals · Interview Prep |
+| Platform | Handle | Focus |
+|---|---|---|
+| **LeetCode** | [srv_30](https://leetcode.com/srv_30) | Arrays · Trees · DP · Graphs · Sliding Window |
+| **GeeksforGeeks** | — | CS Fundamentals · Interview Prep |
 
-**800+ problems** solved across platforms. Consistent focus on algorithmic depth over breadth — trees, graphs, dynamic programming, and system-level thinking.
+**800+ problems** solved. Consistent focus on algorithmic depth — dynamic programming, graph traversal, tree problems, and system-level design questions.
+
+---
+
+## Professional Experience
+
+**Freelance Software Engineer** · Nov 2024 – Nov 2025
+
+Independently scoped, designed, built, and shipped 10+ full-stack production applications for clients across healthcare, retail, travel, and services verticals.
+
+- Delivered 6+ projects with custom JWT authentication and role-based access control
+- Integrated Razorpay and third-party APIs with webhook-based event handling
+- Achieved 40% average performance improvement via MongoDB query optimization and React lazy loading
+- Managed complete project lifecycle: client requirements → technical spec → development → deployment → handoff
 
 ---
 
@@ -239,27 +266,10 @@ Leading open-source community initiatives under the ELUSOC umbrella:
 
 ---
 
-## Professional Experience
-
-**Freelance Software Engineer** · Nov 2024 – Nov 2025
-
-Independently designed, built, and shipped 10+ full-stack production applications for clients across healthcare, retail, and business services verticals.
-
-Key engineering work:
-- Architected REST APIs with Node.js/Express supporting 1,000+ concurrent sessions
-- Implemented JWT authentication with role-based access control across 6+ projects
-- Achieved 40% average performance improvement via query optimization and lazy loading
-- Integrated Razorpay, Stripe, and third-party APIs with webhook-based event handling
-- Delivered full lifecycle: requirements → design → development → deployment → handoff
-
----
-
 <div align="center">
 
----
-
-*Open to full-time SWE roles, research internships, and open source collaboration.*
-*Graduating June 2026. Starting M.Tech at IIT Roorkee, July 2026.*
+*Open to SWE internships, SDE-1 roles, research collaborations, and open source projects.*
+*Graduating June 2026 · M.Tech @ IIT Roorkee from July 2026.*
 
 ---
 
