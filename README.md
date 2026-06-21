@@ -93,7 +93,7 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 | 🦷 **City Smile Dental & Implant Center** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://citysmiledentalclinic.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/citysmiledentalclinic) | MERN |
 | 💍 **Nandani Jewellers** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://nandanijewellers.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/NJ) | MERN |
 | 🛍️ **Faith and Fast** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF) | MERN |
-| 🧃 **Samridhi Enterprises** | [![Live](https://img.shields.io/badge/Live-FFC107?style=flat-square&logo=vercel&logoColor=black)](https://samridhienterprises.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises) | MERN |
+| 🧃 **Samridhi Enterprises** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=black)](https://samridhienterprises.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises) | MERN |
 | 🚗 **Ayan Tours and Travels** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://ayantourandtravels.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Ayan-Tour-Travels) | MERN |
 | 🤲 **SAUBHAGYAM Astro** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://saubhagyamastro.in/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Saubhagyam) | MERN |
 
@@ -136,9 +136,9 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 
 **Notable Repositories:**
 
-[![Box_Office_Inc-Movie_Sim](https://img.shields.io/badge/Box_Office_Inc-Movie_Sim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Box_Office_Inc-Movie_Sim)
-[![Faith-and-Fast](https://img.shields.io/badge/Faith-and-Fast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Faith-and-Fast)
-[![samridhi-enterprises](https://img.shields.io/badge/samridhi-enterprises-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises)
+[![Box_Office_Inc-Movie_Sim](https://img.shields.io/badge/Box_Office_Inc_Movie_Sim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Box_Office_Inc-Movie_Sim)
+[![Faith-and-Fast](https://img.shields.io/badge/Faith_and_Fast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Faith-and-Fast)
+[![samridhi-enterprises](https://img.shields.io/badge/Samridhi_Enterprises-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises)
 
 #### My ELUSOC 2026 Admin Badges!
 
