@@ -136,9 +136,9 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 
 **Notable Repositories:**
 
-[![Box_Office_Inc-Movie_Sim](https://img.shields.io/badge/Bitbox-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Box_Office_Inc-Movie_Sim)
-[![Faith-and-Fast](https://img.shields.io/badge/Movie_Ticket_Booking-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Faith-and-Fast)
-[![samridhi-enterprises](https://img.shields.io/badge/FitFlex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises)
+[![Box_Office_Inc-Movie_Sim](https://img.shields.io/badge/Box_Office_Inc-Movie_Sim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Box_Office_Inc-Movie_Sim)
+[![Faith-and-Fast](https://img.shields.io/badge/Faith-and-Fast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Faith-and-Fast)
+[![samridhi-enterprises](https://img.shields.io/badge/samridhi-enterprises-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises)
 
 #### My ELUSOC 2026 Admin Badges!
 
