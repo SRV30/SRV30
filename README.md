@@ -140,6 +140,13 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 [![Faith-and-Fast](https://img.shields.io/badge/Movie_Ticket_Booking-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/Faith-and-Fast)
 [![samridhi-enterprises](https://img.shields.io/badge/FitFlex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises)
 
+#### My ELUSOC 2026 Admin Badges!
+
+<a href="https://edulinkup.dev/elusoc/profile/SRV30">
+  <img src="https://edulinkup.dev/elusoc/images/ticket/overseer.png" width="60" alt="Overseer" />
+  <img src="https://edulinkup.dev/elusoc/images/ticket/warden.png" width="60" alt="Warden" />
+</a>
+
 ### GSSoC & Hacktoberfest — Contributions
 
 **Key contributions across programs:**
@@ -173,7 +180,7 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 | Platform | Handle | Focus |
 |---|---|---|
 | **LeetCode** | [srv_30](https://leetcode.com/srv_30) | Arrays · Trees · DP · Graphs · Sliding Window |
-| **Codeforces** | [srv_30](https://codeforces.com/profile/srv_30)) | Competitive programming (CP) |
+| **Codeforces** | [srv_30](https://codeforces.com/profile/srv_30) | Competitive programming (CP) |
 | **GeeksforGeeks** | — | CS Fundamentals · Interview Prep |
 
 **800+ problems** solved. Consistent focus on algorithmic depth — dynamic programming, graph traversal, tree problems, and system-level design questions.
