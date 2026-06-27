@@ -145,6 +145,7 @@ Leading open-source community initiatives under the ELUSOC umbrella for 2026:
 <a href="https://edulinkup.dev/elusoc/profile/SRV30">
   <img src="https://edulinkup.dev/elusoc/images/ticket/overseer.png" width="60" alt="Overseer" />
   <img src="https://edulinkup.dev/elusoc/images/ticket/warden.png" width="60" alt="Warden" />
+  <img src="https://edulinkup.dev/elusoc/images/ticket/commander.png" width="60" alt="Commander" />
 </a>
 
 ### GSSoC & Hacktoberfest — Contributions
