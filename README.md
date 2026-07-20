@@ -90,7 +90,7 @@ PDPM IIITDM Jabalpur · 2022 – 2026
 
 | Project | Live | Repo | Stack |
 |---------|------|------|-------|
-| 🦷 **City Smile Dental & Implant Center** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://www.citysmilebydraditya.in/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/citysmiledentalclinic) | MERN |
+| 🦷 **City Smile Dental & Implant Center** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://www.citysmilebydraditya.in/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/City_Smile) | MERN |
 | 💍 **Gitanjali Jewellers** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://www.gitanjalijewellers22k.com/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/NJ) | MERN |
 | 🛍️ **Faith and Fast** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://faithandfast.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/FF) | MERN |
 | 🧃 **Samridhi Enterprises** | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://samridhienterprises.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SRV30/samridhi-enterprises) | MERN |
